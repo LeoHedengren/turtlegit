@@ -14,3 +14,8 @@ rita_triangel(70)
 
 #uppgift 2
 
+def rita_cirkel(radie):
+    turtle.circle(radie)
+
+rita_cirkel(50)
+
